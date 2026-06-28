@@ -1,0 +1,39 @@
+﻿@model LabTaskOne.Models.Job
+@Html.ValidationSummary();
+
+<h1>Application form</h1>
+<form action="" method="post">
+    Full name :
+    <input type="text" name="fullName" value="@Model.fullName" /> 
+    <span>@Html.ValidationMessage("fullName")</span>
+    <br />
+    Email :
+    <input type="email" name="email" value="@Model.email" />
+    <span>@Html.ValidationMessage("email")</span>
+    <br />
+    Position Applied :
+    <input type="text" name="position" value="@Model.position" />
+    <span>@Html.ValidationMessage("position")</span>
+    <br />
+    Experience :
+    <input type="number" name="experience" value="@Model.experience" />
+    <span>@Html.ValidationMessage("experience")</span>
+    <br />
+    Expected Salary :
+    <input type="number" name="salaryExpectatioin" value="@Model.salaryExpectatioin" />
+    <span>@Html.ValidationMessage("salaryExpectatioin")</span>
+    <br />
+</form>
+
+<table>
+    <tr>
+        <td>Full Name</td>
+        <td>position</td>
+        <td>Salary</td>
+    </tr>
+    <tr>
+        <td>@Model.fullName</td>
+        <td>@Model.position</td>
+        <td>@Model.expectedSalary</td>
+    </tr>
+</table>

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\1.Projects\\Academic\\Learning_Advance_dot_net\\LabTaskOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80836F2C-25F4-4322-8234-CB104E7B524D}|LabTaskOne\\LabTaskOne.csproj|c:\\1.projects\\academic\\learning_advance_dot_net\\labtaskone\\labtaskone\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80836F2C-25F4-4322-8234-CB104E7B524D}|LabTaskOne\\LabTaskOne.csproj|solutionrelative:labtaskone\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80836F2C-25F4-4322-8234-CB104E7B524D}|LabTaskOne\\LabTaskOne.csproj|c:\\1.projects\\academic\\learning_advance_dot_net\\labtaskone\\labtaskone\\views\\job\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80836F2C-25F4-4322-8234-CB104E7B524D}|LabTaskOne\\LabTaskOne.csproj|solutionrelative:labtaskone\\views\\job\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80836F2C-25F4-4322-8234-CB104E7B524D}|LabTaskOne\\LabTaskOne.csproj|c:\\1.projects\\academic\\learning_advance_dot_net\\labtaskone\\labtaskone\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80836F2C-25F4-4322-8234-CB104E7B524D}|LabTaskOne\\LabTaskOne.csproj|solutionrelative:labtaskone\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80836F2C-25F4-4322-8234-CB104E7B524D}|LabTaskOne\\LabTaskOne.csproj|c:\\1.projects\\academic\\learning_advance_dot_net\\labtaskone\\labtaskone\\views\\job\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80836F2C-25F4-4322-8234-CB104E7B524D}|LabTaskOne\\LabTaskOne.csproj|solutionrelative:labtaskone\\views\\job\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\1.Projects\\Academic\\Learning_Advance_dot_net\\LabTaskOne\\LabTaskOne\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "LabTaskOne\\Models\\Job.cs",
+              "ToolTip": "C:\\1.Projects\\Academic\\Learning_Advance_dot_net\\LabTaskOne\\LabTaskOne\\Models\\Job.cs",
+              "RelativeToolTip": "LabTaskOne\\Models\\Job.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T09:29:36.124Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\1.Projects\\Academic\\Learning_Advance_dot_net\\LabTaskOne\\LabTaskOne\\Views\\Job\\Details.cshtml",
+              "RelativeDocumentMoniker": "LabTaskOne\\Views\\Job\\Details.cshtml",
+              "ToolTip": "C:\\1.Projects\\Academic\\Learning_Advance_dot_net\\LabTaskOne\\LabTaskOne\\Views\\Job\\Details.cshtml",
+              "RelativeToolTip": "LabTaskOne\\Views\\Job\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T09:56:16.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\1.Projects\\Academic\\Learning_Advance_dot_net\\LabTaskOne\\LabTaskOne\\Views\\Job\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabTaskOne\\Views\\Job\\Index.cshtml",
+              "ToolTip": "C:\\1.Projects\\Academic\\Learning_Advance_dot_net\\LabTaskOne\\LabTaskOne\\Views\\Job\\Index.cshtml",
+              "RelativeToolTip": "LabTaskOne\\Views\\Job\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T09:41:58.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\1.Projects\\Academic\\Learning_Advance_dot_net\\LabTaskOne\\LabTaskOne\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "LabTaskOne\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\1.Projects\\Academic\\Learning_Advance_dot_net\\LabTaskOne\\LabTaskOne\\Controllers\\JobController.cs",
+              "RelativeToolTip": "LabTaskOne\\Controllers\\JobController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T09:35:21.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
